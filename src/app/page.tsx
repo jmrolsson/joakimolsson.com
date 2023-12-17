@@ -17,11 +17,12 @@ export default function Home() {
         </div>
         <div className='text-center md:text-left'>
           <h1 className='text-3xl md:text-4xl font-bold mb-2'>
-            Hi, I'm Joakim Olsson
+            Hi, I&apos;m Joakim Olsson
           </h1>
-          <p className='text-md md:text-lg mb-4'>
-            I'm a Machine Learning Engineer and Physics PhD.
+          <p className='text-lg mb-4'>
+            I&apos;m an ML Engineer and Physics PhD.
           </p>
+
           <a
             href='/joakim-olsson-resume.pdf'
             download
